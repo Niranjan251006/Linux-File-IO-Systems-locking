@@ -88,9 +88,9 @@ int main (int argc, char* argv[])
 ```
 
 ## OUTPUT
-1.
+## 1.
 ![328603016-d505d4ef-9817-4f53-95cd-b5f404dd5494](https://github.com/user-attachments/assets/e9b82c62-c557-46c8-91d0-d7ad0168355a)
-2.
+## 2.
 ![328603263-caa2ba13-feba-4aa3-a768-2646911dfe11](https://github.com/user-attachments/assets/90c92aa5-0463-46f4-b9bb-de5f0ce05e99)
 
 
